@@ -22,13 +22,12 @@
 - 创作《西安交大生存指南》，旨在帮助西安交大新生与老生。
 - 创作学科复习资料。
 - 维护《人工智能自学指南》，旨在为人工智能初学者提供快速入门的途径。
-- 更新《学点没用的》月刊，旨在为 CS/AI 领域学生/从业者提供可能不属于自己领域的优质教程，用于拓展知识面。
 
 ## 关于本书
 
 本书为西安交通大学生存指南，由汐学组进行更新与维护，限于本学组中绝大多数同学来自人工智能专业，因此部分内容可能含有人工智能专业的倾向性，欢迎有识之士进行进一步的拓展。
 
-尽管本书作者的 imbalance 带来了内容的 inductive bias，但众笔者依然希望可以为西安交通大学的新生带来帮助，一方面这些内容可能是务实的，诸如学习的节奏与科研的选择，最终的保研的路线等；一方面本书中保留部分对 <strong>[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)</strong> 的拙劣模仿，对于身处大学中的心态与处事之道仍尝试给出自己的见解。尽管大多数时候，本书还承担了一些“幼教”性质的指引工作。
+尽管本书作者的个人视角的局限性可能带来内容的偏见，但众笔者依然希望可以为西安交通大学的新生带来帮助，一方面这些内容可能是务实的，诸如学习的节奏与科研的选择，最终的保研的路线等；一方面本书中保留部分对 <strong>[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)</strong> 的拙劣模仿，对于身处大学中的心态与处事之道仍尝试给出自己的见解。尽管大多数时候，本书还承担了一些“幼教”性质的指引工作。
 
 总体来说，对本书的不同篇章进行以下的说明：
 
@@ -62,9 +61,3 @@
 特别感谢 [上海交大生存指南](https://survivesjtu.gitbook.io/survivesjtumanual)，SurviveXJTU 的诞生离不开上海交大生存指南的启发，这本令人敬畏的书籍给予了笔者无尽的灵感。
 
 特别感谢 [钱·入学指南](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzMzUxNDk1OA==&action=getalbum&album_id=3584767703459889164#wechat_redirect)，我们的初衷相同，我们的理想相似，本指南部分内容参考了钱·入学指南，并感谢钱学森书院的作者们的无私奉献。
-
-## 访问量
-
-<div align: center>
-  <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt=":survivexjtu.github.io" style="display: block; margin: 0 auto;">
-</div>

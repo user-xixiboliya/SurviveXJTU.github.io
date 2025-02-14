@@ -31,7 +31,3 @@ features:
   - title: 学习路线
     details: 学习路线规划，超越培养方案，成就自我。
 ---
-
-<div align: center>
-  <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt=":survivexjtu.github.io" style="display: block; margin: 0 auto; zoom: 0.00001%;">
-</div>
