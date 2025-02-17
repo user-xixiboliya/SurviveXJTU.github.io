@@ -52,6 +52,9 @@ export default {
   },
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
+      'nav-bar-content-after': () => h(NolebaseEnhancedReadabilitiesMenu), 
+      // 为较窄的屏幕（通常是小于 iPad Mini）添加阅读增强菜单
+      'nav-screen-content-after': () => h(NolebaseEnhancedReadabilitiesScreenMenu),
       'doc-after': () => h('div', { 
         id: 'waline',
         style: 'max-width: 800px; margin: 0 auto; padding: 20px;' // 限制宽度和添加内边距
