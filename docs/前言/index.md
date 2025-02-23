@@ -1,27 +1,8 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 10px;">
-        <img src="../images/title.png" alt="title" style="zoom: 40%;">
-    </div>
+<div style="display: flex; justify-content: flex-end; align-items: center;">
     <div style="margin-left: 10px;">
         <img src="../images/SurviveXJTU.png" alt="SurviveXJTU" style="zoom: 15%;">
     </div>
 </div>
-
-## 关于我们
-
-这里是汐学组 **\[ [主页](https://xistudygroup.github.io/) | [GitHub](https://github.com/XiStudyGroup) \]**，一个致力于知识开源与分享的学生组织，并且正在努力扩大自己的影响力，以帮助到更多的人！
-
-无论是教程/指南/复习资料，我们都有制作，并稳定产出！🎉
-
-大多数内容将从之前的 QQ 群组缓慢迁移至 GitHub，并将 GitHub 作为将来资料的首发平台。
-
-加入我们，学习各种知识，并使用 Markdown & $\LaTeX$ 制作资料，为开源社区贡献自己的力量。❤️
-
-目前本组织的目标主要包括：
-
-- 创作《西安交大生存指南》，旨在帮助西安交大新生与老生。
-- 创作学科复习资料。
-- 维护《人工智能自学指南》，旨在为人工智能初学者提供快速入门的途径。
 
 ## 关于本书
 

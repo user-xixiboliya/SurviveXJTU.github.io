@@ -60,7 +60,7 @@ export default defineConfig({
     }, 
     logo: {
       src: '/logo.svg',
-      alt: 'Logo: XiStudyGroup',
+      alt: 'Logo: SurviveXJTU',
     },
     siteTitle: false, //标题隐藏
     // https://vitepress.dev/reference/default-theme-config
