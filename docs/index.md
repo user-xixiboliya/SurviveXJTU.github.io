@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "SurviveXJTU"
   text: "更适合西交大学子的生存指南。"
-  tagline: Welcome to XJTU. 汐学组出品。
+  tagline: Welcome to XJTU. 人类出品。
   actions:
     - theme: brand
       text: 前言
