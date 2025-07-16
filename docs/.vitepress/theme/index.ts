@@ -29,7 +29,7 @@ export default {
       setTimeout(() => {
         init({
           el: '#waline',
-          serverURL: 'https://waline.axi404.top',
+          serverURL: 'https://waline.survivexjtu.cc',
           path: route.path,
           reaction: [],
           comment: true,
@@ -40,7 +40,7 @@ export default {
       router.onAfterRouteChanged = () => {
         init({
           el: '#waline',
-          serverURL: 'https://waline.axi404.top',
+          serverURL: 'https://waline.survivexjtu.cc',
           path: route.path,
           reaction: [],
           comment: true,
